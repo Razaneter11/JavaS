@@ -1,0 +1,10 @@
+.demo{
+    background-color: rgb(161, 96, 222);
+    box-shadow: 10px 10px 10px rgb(91, 89, 89);
+    text-align: center;
+}
+.vip{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
